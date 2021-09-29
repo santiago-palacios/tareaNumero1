@@ -1,0 +1,37 @@
+article p{
+color:rgb(199, 216, 199)
+}
+    
+
+
+footer a{
+    color:green;
+    background-color: #fff}
+
+ 
+nav a {
+    color:rgb(255,255,0)
+
+}
+
+#contenido a {
+    color:indigo
+}
+
+
+body{
+      color:red
+}
+
+aside{
+    color:rgb(71, 7, 247)   
+}
+
+.suma{
+    font: 23px Nirmala UI, sans-serif;
+}
+
+
+h4 {
+    font: italic small-caps bold 30px/66px Georgia, serif;
+  }

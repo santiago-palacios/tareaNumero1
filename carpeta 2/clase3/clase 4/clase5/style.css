@@ -1,0 +1,54 @@
+/*span{
+    border: 1px solid black;
+    padding:5px;
+    border-radius: 5px;
+
+
+}
+
+span{
+    background-image: linear-gradient(to bottom right,red,yellow)
+}
+
+/*shadow
+h3{
+    text-shadow: 2px 2px  red,5px 5px blue;
+}
+
+/*efectos de texto
+span{
+   writing-mode: vertical-rl;
+}
+
+/*transform
+footer{
+   
+ transform: scale(1,1) ;
+}
+
+
+/* The animation code */
+@keyframes miprimeraanimacion{
+    from {background-color: red;}
+    to {background-color: yellow;}
+  }
+  
+
+  
+  
+/*trancicion*/
+
+div{
+    
+    width: 100px;
+    height: 100px;
+    background-color: coral;
+    animation-name: animacion;
+    animation-duration: 4s;
+
+}
+
+div:hover{
+    width:300px ;
+}
+
